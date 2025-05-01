@@ -1,0 +1,2 @@
+# Project-7-FashionStore-Data-Model
+FASHIONSTORE DATA MODEL - SQL ARCHITECTURE
