@@ -64,7 +64,7 @@ This project successfully implements a robust SQL data model for a digital retai
 - Covers end-to-end retail processes (sales, supply, inventory, customer management)
 - It is designed for future scalability and integration
 - Enables data warehousing and business intelligence use cases
-
+The model was extended to incorporate a returns and refund process, ensuring that the database structure is compatible with real-world retail operations. This returns workflow includes:
 > Future work could include integration with Python-based ETL pipelines, machine learning for sales forecasting, or customer segmentation analytics.
 
 Project Structure
@@ -72,6 +72,7 @@ Project Structure
 ├── Code_create_tables_sql_sample.txt # SQL 
 ├──Relation_tables_foreign_keys.csv (export SQL)
     └── ERD.pgerd              # ERD model file (.png export)
+    ├──UMLSalesFlow.png
 
 Author
 Monica Prieto — Data Engineer
